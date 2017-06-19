@@ -1,0 +1,16 @@
+body {
+    background-image: url("http://images.all-free-download.com/images/graphicthumb/metal_background_of_highdefinition_picture_2_169714.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;  
+  background-color: #2976c4;
+  color:white;
+}
+
+table{
+  background-color: white;
+}
