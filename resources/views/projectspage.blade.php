@@ -238,12 +238,11 @@ body {
     </div>
 
     <div class="item">
-      <img src="/myWebsite/resources/views/images/syntaxerror.jpg" alt="syntaxerror">
+      <img src="/myWebsite/resources/views/images/2nd60robot.jpg" alt="syntaxerror">
         <h1>Syntax Error Robotic's 2nd 60lb Combat Robot</h1>
-        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <p>A 60lb Combat Robot designed using Auto Desk Inventor, Auto Desk Fusion360, Waterjet 6061 Alumnium, 3D printed Pulleys, 4 Wheel belt drive, Chromoly Vertical Disc Weapon</p>
     </div>
   </div>
-
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
@@ -255,18 +254,7 @@ body {
   </a>
 </div>
 
-
-
-           
-
-
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
     <div class="container marketing">
-
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
@@ -289,7 +277,8 @@ body {
         </div><!-- /.col-lg-4 -->
 
       </div><!-- /.row -->
-            <!-- Three columns of text below the carousel -->
+
+      <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="/myWebsite/resources/views/images/emailsystemIcon.png" alt="Generic placeholder image" width="140" height="140">
@@ -307,11 +296,30 @@ body {
           <img class="img-circle" src="/myWebsite/resources/views/images/quadcopter.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2>FPV Racing Quadcopter</h2>
           <p>A FPV Quadcopter built to go super fast! Calculated top speeds of 100mph</p>
-          <p><a class="btn btn-default" href="wheretoeat" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
-        
-      </div><!-- /.row -->
-
+      </div>
+       <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="/myWebsite/resources/views/images/syntaxerror.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h1>Syntax Error Robotic's 2nd 60lb Combat Robot</h1>
+          <p>A 60lb Combat Robot designed using Auto Desk Inventor, Auto Desk Fusion360, Waterjet 6061 Alumnium, 3D printed Pulleys, 4 Wheel belt drive, Chromoly Vertical Disc Weapon</p>
+          <p><a class="btn btn-default" href="" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/myWebsite/resources/views/images/quickenrobot.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h1>Quicken Loans Rocket Mortgage Commercial Robot</h1>
+          <p>A Robot Built for a Quicken Loan commercial featuring battlebots!</p>
+          <p><a class="btn btn-default" href="" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="/myWebsite/resources/views/images/antweightrobot.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Syntax Error 1lb Combat Robot</h2>
+          <p>A 1lb Combat robot designed in Auto Desk Inventor, and then CNC Milled out in 6061 Alumnium</p>
+          <p><a class="btn btn-default" href="" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->   
+      </div>
 
       
 
