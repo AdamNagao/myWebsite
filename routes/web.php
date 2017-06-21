@@ -11,6 +11,7 @@
 |
 */
 
+//main routes 
 Route::get('/', function () {
     return view('landingpage');
 });
@@ -19,9 +20,6 @@ Route::get('/projects', function () {
     return view('projectspage');
 });
 
-Route::get('/hangmangame', function () {
-    return view('HangManGamepage');
-});
 
 Route::get('/contact', function () {
     return view('contactpage');
@@ -29,6 +27,10 @@ Route::get('/contact', function () {
 
 
 
+//hangman game route
+Route::get('/hangmangame', function () {
+    return view('HangManGamepage');
+});
 
 
 //email system routes
@@ -63,4 +65,9 @@ Route::get('/emailsystem/spam', function () {
 
 Route::get('/emailsystem/trash', function () {
     return view('/EmailSystem/Trash');
+});
+
+//jafar's java routes
+Route::get('jafarsjava', function () {
+    return view('/jafarsjava/login');
 });
